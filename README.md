@@ -9,9 +9,9 @@
 
 | Level | Problem Name | P/F | solution_day | Link |
 | :---: | --- | :---: | :---: | :---: |
-| 1 | 청팀 백팀 | P | 2020-12-30 | |
-| 1 | 도도새의 업무일지 | P | 2020-12-30 | |
-| 1 | 주방장 도도새 | P | 2020-12-30 | |
+| 1 | 청팀 백팀 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Q1.py) |
+| 1 | 도도새의 업무일지 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Q2.py) |
+| 1 | 주방장 도도새 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Q3.py) |
 
 + Week 2
 
