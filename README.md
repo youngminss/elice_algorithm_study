@@ -20,7 +20,7 @@
 | 1 | K 번 곱하기 | F(60) | | |
 | 1 | 바쁘다 바빠 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q10.py) |
 | 1 | 도어락 비밀번호 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q11.py) |
-| 1 | 덧셈을 모르는 체셔 | F(80) | | |
+| 1 | 덧셈을 모르는 체셔 | P | 2021-01-01 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q12.py) |
 
 + Week 2
 
