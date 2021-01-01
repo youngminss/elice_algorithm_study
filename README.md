@@ -24,23 +24,36 @@
 
 + Week 2
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 3
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 4
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 5
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 6
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 7
 
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 
 + Week 8
 
-
+| Level | Problem Name | P/F | solution_day | Link |
+| :---: | --- | :---: | :---: | :---: |
 ## 📢 비고
