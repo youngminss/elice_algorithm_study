@@ -31,36 +31,45 @@
 
 + Week 2
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
+| 정렬 | 2 | 난 올라가는게좋아 | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EB%82%9C%EC%98%AC%EB%9D%BC%EA%B0%80%EB%8A%94%EA%B2%8C%EC%A2%8B%EC%95%84.py) |
+| 그리디 | 2 | 식기 세트 만들기 | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%8B%9D%EA%B8%B0%EC%84%B8%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 그리디 | 2 | 잔돈 가득한 세상 | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%9E%94%EB%8F%88%EA%B0%80%EB%93%9D%ED%95%9C%EC%84%B8%EC%83%81.py) |
+| 구현 | 2 | 직각삼각형 | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py) |
+| 스택 | 2 | 해치웠나... | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%B4%EC%A7%80%EC%9B%A0%EB%82%98.py) |
 
 + Week 3
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
 
 + Week 4
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
 
 + Week 5
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
 
 + Week 6
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
 
 + Week 7
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
 
 + Week 8
 
-| Level | Problem Name | P/F | solution_day | Link |
-| :---: | --- | :---: | :---: | :---: |
+| Type | Level | Problem Name | P/F | solution_day | Link |
+| :---: | :---: | --- | :---: | :---: | :---: |
+
+
 ## 📢 비고
+
+> 모든 문제제공은 "elice" 에서 제공했습니다.
