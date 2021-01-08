@@ -24,7 +24,7 @@
 | 수학 | 1 | 숫자 나라 특허 전쟁 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q6.py) |
 | 수학 | 1 | 김 박사의 비밀 데이터 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q7.py) |
 | 수학 | 1 | 무어의 법칙 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q8.py) |
-| 수학 | 1 | K 번 곱하기 | F(60) | | |
+| 수학 | 1 | K 번 곱하기 | F(60)-> feedback(100) | 2002-01-06 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q9.py) |
 | 수학 | 1 | 바쁘다 바빠 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q10.py) |
 | 수학 | 1 | 도어락 비밀번호 | P | 2020-12-30 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q11.py) |
 | 수학 | 1 | 덧셈을 모르는 체셔 | P | 2021-01-01 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week1/Q12.py) |
