@@ -10,8 +10,12 @@
 
 | Id | Type | Number of problems |
 | :---: | :---: | :---: |
-| 1 | 구현| 5 |
-| 2 | 수학 | 7 | 
+| 1 | 구현| 6 |
+| 2 | 수학 | 7 |
+| 3 | 정렬 | 1 |
+| 4 | 그리디 | 2 |
+| 5 | 스택 | 1 |
+
 + Week 1
 
 | Type| Level | Problem Name | P/F | solution_day | Link |
