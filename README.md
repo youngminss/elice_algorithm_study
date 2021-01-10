@@ -48,7 +48,7 @@
 | 스택 | 2 | 해치웠나... | P | 2020-01-08 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%B4%EC%A7%80%EC%9B%A0%EB%82%98.py) |
 | 정렬 | 2 | 안전요원의 임무 | P | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%95%88%EC%A0%84%EC%9A%94%EC%9B%90%EC%9D%98_%EC%9E%84%EB%AC%B4.py) | 
 | 탐색 | 2 | 함정 발동 | P | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%A8%EC%A0%95%EB%B0%9C%EB%8F%99.py) |
-| 큐 | 2 | 파자마 파티에는 게임이 빠지면 안돼 | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%8C%8C%EC%9E%90%EB%A7%88_%ED%8C%8C%ED%8B%B0%EC%97%90%EB%8A%94_%EA%B2%8C%EC%9E%84%EC%9D%B4_%EB%B9%A0%EC%A7%80%EB%A9%B4_%EC%95%88%EB%8F%BC.py)|
+| 큐 | 2 | 파자마 파티에는 게임이 빠지면 안돼 | P | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%8C%8C%EC%9E%90%EB%A7%88_%ED%8C%8C%ED%8B%B0%EC%97%90%EB%8A%94_%EA%B2%8C%EC%9E%84%EC%9D%B4_%EB%B9%A0%EC%A7%80%EB%A9%B4_%EC%95%88%EB%8F%BC.py)|
 + Week 3
 
 | Type | Level | Problem Name | P/F | solution_day | Link |
