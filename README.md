@@ -55,6 +55,8 @@
 | 시뮬레이션 | 2 | 떡 먹은 떡만이 | P | 2020-01-11| [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EB%96%A1_%EB%A8%B9%EC%9D%80_%EB%96%A1%EB%A7%8C%EC%9D%B4.py)|
 | 수학 | 2 | 훌라후프 | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%9B%8C%EB%9D%BC%ED%9B%84%ED%94%84.py)|
 | 수학 | 2 | 피보나치 K 번쨰 | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_K%EB%B2%88%EC%A7%B8_%EC%88%98%EB%8A%94.py)|
+| 정수론 | 2 | 싸이코패스의 일기장 | P | 2021-01-12 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%8B%B8%EC%9D%B4%EC%BD%94%ED%8C%A8%EC%8A%A4%EC%9D%98_%EC%9D%BC%EA%B8%B0%EC%9E%A5.py) |
+| 분할정복 | 2 | 산수 왕 체셔 | P(feedback) | 2021-01-12 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EC%82%B0%EC%88%98%EC%99%95%EC%B2%B4%EC%85%94.py) |
 
 + Week 3
 
