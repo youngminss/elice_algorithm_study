@@ -51,7 +51,10 @@
 | 탐색 | 2 | 함정 발동 | P | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%A8%EC%A0%95%EB%B0%9C%EB%8F%99.py) |
 | 큐 | 2 | 파자마 파티에는 게임이 빠지면 안돼 | P | 2020-01-10 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%8C%8C%EC%9E%90%EB%A7%88_%ED%8C%8C%ED%8B%B0%EC%97%90%EB%8A%94_%EA%B2%8C%EC%9E%84%EC%9D%B4_%EB%B9%A0%EC%A7%80%EB%A9%B4_%EC%95%88%EB%8F%BC.py)|
 | 문자열 | 2 | 너가 왜 거기서 나와 ? | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EB%84%88%EA%B0%80_%EC%99%9C_%EA%B1%B0%EA%B8%B0%EC%84%9C_%EB%82%98%EC%99%80.py) |
-| 문자열 | 2 | 하나하나 | P | 2002-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%98%EB%82%98%ED%95%98%EB%82%98.py) |
+| 문자열 | 2 | 하나하나 | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%95%98%EB%82%98%ED%95%98%EB%82%98.py) |
+| 시뮬레이션 | 2 | 떡 먹은 떡만이 | P | 2020-01-11| [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%EB%96%A1_%EB%A8%B9%EC%9D%80_%EB%96%A1%EB%A7%8C%EC%9D%B4.py)|
+| 수학 | 2 | 훌라후프 | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%9B%8C%EB%9D%BC%ED%9B%84%ED%94%84.py)|
+| 수학 | 2 | 피보나치 K 번쨰 | P | 2020-01-11 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week2/Q_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_K%EB%B2%88%EC%A7%B8_%EC%88%98%EB%8A%94.py)|
 
 + Week 3
 
