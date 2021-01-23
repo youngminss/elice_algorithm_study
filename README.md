@@ -10,7 +10,7 @@
 
 | Id | Type | Number of problems |
 | :---: | :---: | :---: |
-| 1 | 구현| 6 |
+| 1 | 구현| 8 |
 | 2 | 수학 | 9 |
 | 3 | 정렬 | 2 |
 | 4 | 그리디 | 2 |
@@ -21,7 +21,9 @@
 | 9 | 시뮬레이션 | 1 |
 | 10 | 분할정복 | 1 |
 | 11 | 정수론 | 1 |
-
+| 12 | 투포인터 | 1 |
+| 13 | 브루트포스 | 1 |
+| 14 | 순열 | 1 |
 
 
 + Week 1
@@ -65,12 +67,15 @@
 
 | Type | Level | Problem Name | P/F | solution_day | Link |
 | :---: | :---: | --- | :---: | :---: | :---: |
-
+| 구현 | 3 | 사탕가게 | P | 2021-01-20 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EB%A7%9B%EC%A2%8B%EC%9D%80%EB%9D%BC%EB%A9%B4.py) |
+| 구현 | 3 | 암호 만들기 | P | 2021-01-20 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week3/Q_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 순열 | 3 | 위험한동굴 | P | 2021-01-21 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week3/Q_%EC%9C%84%ED%97%98%ED%95%9C%EB%8F%99%EA%B5%B4.py) |
+| 브루트포스 | 3 | 하트여왕달력 | P | 2021-01-21 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week3/Q_%ED%95%98%ED%8A%B8%EC%97%AC%EC%99%95%EB%8B%AC%EB%A0%A5.py) | 
 + Week 4
 
 | Type | Level | Problem Name | P/F | solution_day | Link |
 | :---: | :---: | --- | :---: | :---: | :---: |
-
+| 투포인터 | 4 | 맛좋은라면 | P | 2021-01-22 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EB%A7%9B%EC%A2%8B%EC%9D%80%EB%9D%BC%EB%A9%B4.py) |
 + Week 5
 
 | Type | Level | Problem Name | P/F | solution_day | Link |
