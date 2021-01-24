@@ -21,30 +21,32 @@
 # [출력 예시]
 # -74 75
 
+def solution():
+    n = int(input())
+    datas = list(map(int,input().split()))
 
-n = int(input())
-datas = list(map(int,input().split()))
+    l = 0
+    r = len(datas) - 1
+    less = 2000000
 
-l = 0
-r = len(datas) - 1
-less = 2000000
-
-while l < r:
-    
-    if abs(datas[l] + datas[r]) < less:
-        pl = l
-        pr = r
-        less = abs(datas[l] + datas[r])
-    elif abs(datas[l] + datas[r]) == less :
-        if (abs(datas[l]) + abs(datas[r])) > (abs(datas[pl]) + abs(datas[pr])):
+    while l < r:
+        
+        if abs(datas[l] + datas[r]) < less:
             pl = l
             pr = r
+            less = abs(datas[l] + datas[r])
+        elif abs(datas[l] + datas[r]) == less :
+            if (abs(datas[l]) + abs(datas[r])) > (abs(datas[pl]) + abs(datas[pr])):
+                pl = l
+                pr = r
 
-    if abs(datas[l+1] + datas[r]) < abs(datas[l] + datas[r-1]): l += 1
-    else:  r -= 1
+        if abs(datas[l+1] + datas[r]) < abs(datas[l] + datas[r-1]): l += 1
+        else:  r -= 1
 
-print(datas[pl],datas[pr])
+    print(datas[pl],datas[pr])
     
+if __name__ == '__main__':
+    solution()
 
 
 # # 아이디어
