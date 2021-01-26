@@ -45,7 +45,7 @@ def solution():
                             lst.sort()
                             if not lst in permutations:
                                 permutations.append([i,j,k])
-                            
+             
     print(len(permutations))
 
 
