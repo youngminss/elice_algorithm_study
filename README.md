@@ -25,7 +25,10 @@
 | 13 | 브루트포스 | 1 |
 | 14 | 순열 | 1 |
 | 15 | 이분탐색 | 1 |
-| 16 | BFS | 1 |
+| 16 | BFS | 4 |
+| 17 | DFS | 4 |
+| 18 | DP | 2 |
+
 
 
 + Week 1
@@ -79,8 +82,17 @@
 | Type | Level | Problem Name | P/F | solution_day | Link |
 | :---: | :---: | --- | :---: | :---: | :---: |
 | 투포인터 | 4 | 맛좋은라면 | P | 2021-01-22 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EB%A7%9B%EC%A2%8B%EC%9D%80%EB%9D%BC%EB%A9%B4.py) |
-| 이분탐색 | 4 | 회장님의선택 | F(80) | 2021-01-23 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%ED%9A%8C%EC%9E%A5%EB%8B%98%EC%9D%98%EA%B3%A0%EB%AF%BC.py)|
+| 이분탐색 | 4 | 회장님의고민 | F(80) | 2021-01-23 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%ED%9A%8C%EC%9E%A5%EB%8B%98%EC%9D%98%EA%B3%A0%EB%AF%BC.py)|
 | BFS | 4 | 생체실험 | P | 2021-01-24 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%83%9D%EC%B2%B4%EC%8B%A4%ED%97%98.py) |
+| DFS | 4 | 비타민중독자 | F(80) | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EB%B9%84%ED%83%80%EB%AF%BC%EC%A4%91%EB%8F%85%EC%9E%90.py) |
+| DP | 4 | 삼각사각한 넓이 | P | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%82%BC%EA%B0%81%EC%82%AC%EA%B0%81%ED%95%9C%EB%84%93%EC%9D%B4.py) |
+| DFS | 4 | 섬마을 지킴이 공개채용 | P | 2021-01-26 | [소스코드](Week4/Q_섬마을지킴이공개채용.py) |
+| DP | 4 | 스키 | P(feedback) | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%8A%A4%ED%82%A4.py) |
+| BFS | 4 | 시차의 폭풍은 정말 최고야 ! | P | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%8B%9C%EC%B0%A8%EC%9D%98%ED%8F%AD%ED%92%8D%EC%9D%80%EC%A0%95%EB%A7%90%EC%B5%9C%EA%B3%A0%EC%95%BC.py) |
+| DFS | 4 | 자동차 미니 게임 | P | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%9E%90%EB%8F%99%EC%B0%A8%EB%AF%B8%EB%8B%88%EA%B2%8C%EC%9E%84.py) |
+| BFS | 4 | 자원절약운동 | P | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%9E%90%EC%9B%90%EC%A0%88%EC%95%BD%EC%9A%B4%EB%8F%99.py) |
+| DFS | 4 | 충치연구 | P | 2021-01-26 | [소스코드](https://kdt-gitlab.elice.io/WI/elice_algorithm_study/-/blob/master/Week4/Q_%EC%B6%A9%EC%B9%98%EC%97%B0%EA%B5%AC.py) |
+
 
 + Week 5
 
