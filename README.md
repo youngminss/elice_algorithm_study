@@ -114,10 +114,6 @@
 | Type | Level | Problem Name | P/F | solution_day | Link |
 | :---: | :---: | --- | :---: | :---: | :---: |
 
-+ Week 8
-
-| Type | Level | Problem Name | P/F | solution_day | Link |
-| :---: | :---: | --- | :---: | :---: | :---: |
 
 
 ## 📢 비고
